@@ -10,7 +10,7 @@ const LIM = 30
 
 var fibs [LIM]*big.Int
 
-func main() {
+func main48() {
 	//result := big.NewInt(0)
 	var result *big.Int
 	start := time.Now()
